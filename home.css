@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Quicksand', sans-serif;
-    scroll-behavior: smooth;
 }
 
 body {
@@ -139,24 +138,6 @@ i {
 
 i:hover {
     color: white;
-}
-
-
-/* footer */
-
-#footer {
-    background-color: rgb(37 37 37);
-    color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    bottom: 1px;
-}
-
-.foot {
-    margin: 0px 25px;
 }
 
 
